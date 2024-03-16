@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cifras</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        .cifra { margin-bottom: 40px; }
+        .title { color: #333; margin-bottom: 10px; }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { text-align: left; padding: 8px; border-bottom: 1px solid #ddd; }
+    </style>
+</head>
+<body>
+
+<div id="cifrasContainer"></div>
+
+<script>
+// Função para exibir as cifras
+function displayCifras(cifrasData) {
+    const container = document.getElementById('cifrasContainer');
+    cifrasData.cifras.forEach(cifra => {
+        const cifraDiv = document.createElement('div');
+        cifraDiv.className = 'cifra';
+
+        const title = document.createElement('h2');
+        title.className = 'title';
+        title.textContent = cifra.titulo;
+        cifraDiv.appendChild(title);
+
+        const table = document.createElement('table');
+        cifra.secoes.forEach(secao => {
+            const row = table.insertRow();
+            const cell1 = row.insertCell(0);
+            cell1.textContent = secao.nome + (secao.repeticoes ? ` (${secao.repeticoes})` : '');
+            const cell2 = row.insertCell(1);
+            cell2.textContent = secao.acordes;
+        });
+        cifraDiv.appendChild(table);
+
+        container.appendChild(cifraDiv);
+    });
+}
+
+// Carregar e exibir as cifras a partir do arquivo JSON
+document.addEventListener('DOMContentLoaded', () => {
+    fetch('cifras.json')
+        .then(response => response.json())
+        .then(data => displayCifras(data))
+        .catch(error => console.error('Error loading the cifras.json file:', error));
+});
+</script>
+
+</body>
+</html>

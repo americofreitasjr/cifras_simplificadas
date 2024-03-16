@@ -1,0 +1,188 @@
+{
+    "cifras": [
+        {
+            "titulo": "Diante do Trono - \u00c1guas Purificadoras",
+            "tom": "A",
+            "capotraste": "Nenhum",
+            "secoes": [
+                {
+                    "nome": "Intro",
+                    "acordes": "A E F#m D",
+                    "repeticoes": ""
+                },
+                {
+                    "nome": "Verso",
+                    "acordes": "A E F#m D",
+                    "repeticoes": "2x"
+                },
+                {
+                    "nome": "Refr\u00e3o",
+                    "acordes": "A E F#m D",
+                    "repeticoes": ""
+                }
+            ]
+        },
+        {
+            "titulo": "Casa Worship - A Casa \u00c9 Sua",
+            "tom": "G",
+            "capotraste": "Nenhum",
+            "secoes": [
+                {
+                    "nome": "Intro",
+                    "acordes": "G D Em C",
+                    "repeticoes": ""
+                },
+                {
+                    "nome": "Verso",
+                    "acordes": "G D Em C",
+                    "repeticoes": "2x"
+                },
+                {
+                    "nome": "Refr\u00e3o",
+                    "acordes": "G D Em C",
+                    "repeticoes": "2x"
+                },
+                {
+                    "nome": "Ponte",
+                    "acordes": "Em C G D",
+                    "repeticoes": ""
+                }
+            ]
+        },
+        {
+            "titulo": "Aline Barros - Jeov\u00e1 Jireh",
+            "tom": "D",
+            "capotraste": "Nenhum",
+            "secoes": [
+                {
+                    "nome": "Intro",
+                    "acordes": "D A Bm G",
+                    "repeticoes": ""
+                },
+                {
+                    "nome": "Verso",
+                    "acordes": "D A Bm G",
+                    "repeticoes": "2x"
+                },
+                {
+                    "nome": "Refr\u00e3o",
+                    "acordes": "D A Bm G",
+                    "repeticoes": "2x"
+                },
+                {
+                    "nome": "Ponte",
+                    "acordes": "Bm A G D",
+                    "repeticoes": ""
+                }
+            ]
+        },
+        {
+            "titulo": "Mariana Valad\u00e3o - Hosana",
+            "tom": "E",
+            "capotraste": "Nenhum",
+            "secoes": [
+                {
+                    "nome": "Intro",
+                    "acordes": "E B C#m A",
+                    "repeticoes": ""
+                },
+                {
+                    "nome": "Verso",
+                    "acordes": "E B C#m A",
+                    "repeticoes": "2x"
+                },
+                {
+                    "nome": "Refr\u00e3o",
+                    "acordes": "E B C#m A",
+                    "repeticoes": "2x"
+                },
+                {
+                    "nome": "Ponte",
+                    "acordes": "C#m A E B",
+                    "repeticoes": ""
+                }
+            ]
+        },
+        {
+            "titulo": "Jefferson & Suellen - Vem Me Buscar",
+            "tom": "Ebm",
+            "capotraste": "4\u00aa casa",
+            "secoes": [
+                {
+                    "nome": "Intro",
+                    "acordes": "Bm A G Em",
+                    "repeticoes": ""
+                },
+                {
+                    "nome": "Verso",
+                    "acordes": "Bm A G Em",
+                    "repeticoes": "2x"
+                },
+                {
+                    "nome": "Refr\u00e3o",
+                    "acordes": "G D Em Bm",
+                    "repeticoes": "2x"
+                },
+                {
+                    "nome": "Ponte",
+                    "acordes": "Em G D A",
+                    "repeticoes": ""
+                }
+            ]
+        },
+        {
+            "titulo": "Theo Rubia - Pode Morar Aqui",
+            "tom": "G",
+            "capotraste": "Nenhum",
+            "secoes": [
+                {
+                    "nome": "Intro",
+                    "acordes": "G D Em C",
+                    "repeticoes": ""
+                },
+                {
+                    "nome": "Verso",
+                    "acordes": "G D Em C",
+                    "repeticoes": "2x"
+                },
+                {
+                    "nome": "Refr\u00e3o",
+                    "acordes": "G D Em C",
+                    "repeticoes": "2x"
+                },
+                {
+                    "nome": "Ponte",
+                    "acordes": "Em C G D",
+                    "repeticoes": ""
+                }
+            ]
+        },
+        {
+            "titulo": "Adhemar de Campos - Grande \u00c9 o Senhor",
+            "tom": "G",
+            "capotraste": "Nenhum",
+            "secoes": [
+                {
+                    "nome": "Intro",
+                    "acordes": "G C D Em",
+                    "repeticoes": ""
+                },
+                {
+                    "nome": "Verso",
+                    "acordes": "G C D Em",
+                    "repeticoes": "2x"
+                },
+                {
+                    "nome": "Refr\u00e3o",
+                    "acordes": "G Em C D",
+                    "repeticoes": "2x"
+                },
+                {
+                    "nome": "Ponte",
+                    "acordes": "Em C G D",
+                    "repeticoes": ""
+                }
+            ]
+        }
+    ]
+}
