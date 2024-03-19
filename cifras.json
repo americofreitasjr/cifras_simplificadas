@@ -1,185 +1,307 @@
 {
     "cifras": [
         {
-            "titulo": "Diante do Trono - \u00c1guas Purificadoras",
+            "nome_arquivo": "Cifra Club - Marcelo Markes - Eu Tenho Você.pdf",
+            "titulo": "Eu Tenho Você",
+            "artista": "Marcelo Markes",
+            "tom": "Bb",
+            "capotraste": "3ª casa",
+            "secoes": [
+                {
+                    "nome": "Intro",
+                    "acordes": [
+                        "G",
+                        "C",
+                        "G",
+                        "C"
+                    ],
+                    "repeticoes": ""
+                },
+                {
+                    "nome": "Primeira Parte",
+                    "acordes": [
+                        "G",
+                        "C/G",
+                        "Em"
+                    ],
+                    "repeticoes": ""
+                },
+                {
+                    "nome": "Pré-Refrão",
+                    "acordes": [
+                        "Am",
+                        "G/B",
+                        "C",
+                        "D"
+                    ],
+                    "repeticoes": "2x"
+                },
+                {
+                    "nome": "Refrão",
+                    "acordes": [
+                        "G",
+                        "Em7",
+                        "Am",
+                        "C",
+                        "D"
+                    ],
+                    "repeticoes": "3x"
+                },
+                {
+                    "nome": "Refrão 2",
+                    "acordes": [
+                        "C",
+                        "G/B",
+                        "Am",
+                        "C",
+                        "D9",
+                        "C9"
+                    ],
+                    "repeticoes": ""
+                },
+                {
+                    "nome": "Ponte",
+                    "acordes": [
+                        "C9",
+                        "G",
+                        "Am7",
+                        "G",
+                        "C9",
+                        "G",
+                        "Am7",
+                        "G",
+                        "C",
+                        "G",
+                        "Am7",
+                        "D9"
+                    ],
+                    "repeticoes": ""
+                },
+                {
+                    "nome": "Refrão Final",
+                    "acordes": [
+                        "C",
+                        "G/B",
+                        "Am",
+                        "C",
+                        "D9",
+                        "C9",
+                        "G",
+                        "Am",
+                        "D9",
+                        "C9"
+                    ],
+                    "repeticoes": ""
+                }
+            ]
+        },
+        {
+            "nome_arquivo": "Cifra Club - Adhemar de Campos - Grande É o Senhor.pdf",
+            "titulo": "Grande É o Senhor",
+            "artista": "Adhemar de Campos",
             "tom": "A",
-            "capotraste": "Nenhum",
+            "capotraste": "2ª casa",
             "secoes": [
                 {
-                    "nome": "Intro",
-                    "acordes": "A E F#m D",
+                    "nome": "Primeira Parte",
+                    "acordes": [
+                        "G9",
+                        "C9",
+                        "G9",
+                        "C9",
+                        "D/F#",
+                        "Em7(11)/B",
+                        "D",
+                        "Am11",
+                        "Bm",
+                        "C6(9)",
+                        "D5"
+                    ],
                     "repeticoes": ""
                 },
                 {
-                    "nome": "Verso",
-                    "acordes": "A E F#m D",
-                    "repeticoes": "2x"
-                },
-                {
-                    "nome": "Refr\u00e3o",
-                    "acordes": "A E F#m D",
+                    "nome": "Refrão",
+                    "acordes": [
+                        "G9",
+                        "Bm",
+                        "C9",
+                        "Bm",
+                        "Am11",
+                        "D",
+                        "G9",
+                        "Bm",
+                        "C9",
+                        "Bm",
+                        "Am11",
+                        "D",
+                        "C9",
+                        "D"
+                    ],
                     "repeticoes": ""
                 }
             ]
         },
         {
-            "titulo": "Casa Worship - A Casa \u00c9 Sua",
-            "tom": "G",
-            "capotraste": "Nenhum",
+            "nome_arquivo": "Cifra Club - Aline Barros - Sonda-me, Usa-me.pdf",
+            "titulo": "Sonda-me, Usa-me",
+            "artista": "Aline Barros",
+            "tom": "C",
+            "capotraste": "5ª casa",
             "secoes": [
                 {
                     "nome": "Intro",
-                    "acordes": "G D Em C",
+                    "acordes": [
+                        "G",
+                        "D/F#",
+                        "C9",
+                        "D",
+                        "Em",
+                        "Em7/D",
+                        "C9",
+                        "D/F#",
+                        "G4",
+                        "G",
+                        "Bm"
+                    ],
                     "repeticoes": ""
                 },
                 {
-                    "nome": "Verso",
-                    "acordes": "G D Em C",
-                    "repeticoes": "2x"
+                    "nome": "Primeira Parte",
+                    "acordes": [
+                        "G",
+                        "D/F#",
+                        "Em",
+                        "Em7/D",
+                        "C9",
+                        "G/B",
+                        "Am",
+                        "G",
+                        "D/F#",
+                        "Em",
+                        "Em7/D"
+                    ],
+                    "repeticoes": ""
                 },
                 {
-                    "nome": "Refr\u00e3o",
-                    "acordes": "G D Em C",
-                    "repeticoes": "2x"
+                    "nome": "Pré-Refrão",
+                    "acordes": [
+                        "C9",
+                        "D/C",
+                        "Bm7",
+                        "Em",
+                        "Em7/D",
+                        "C9",
+                        "D",
+                        "C/E",
+                        "D/F#"
+                    ],
+                    "repeticoes": ""
+                },
+                {
+                    "nome": "Refrão",
+                    "acordes": [
+                        "G",
+                        "D/F#",
+                        "Em",
+                        "Em7/D",
+                        "C9",
+                        "G/B",
+                        "C/E",
+                        "D/F#",
+                        "G",
+                        "D/F#",
+                        "Em",
+                        "Em7/D",
+                        "C9",
+                        "G/B",
+                        "C9",
+                        "D",
+                        "Em",
+                        "C",
+                        "D"
+                    ],
+                    "repeticoes": ""
                 },
                 {
                     "nome": "Ponte",
-                    "acordes": "Em C G D",
+                    "acordes": [
+                        "G",
+                        "Em",
+                        "C9",
+                        "Am",
+                        "C9",
+                        "D",
+                        "G",
+                        "Em",
+                        "C9",
+                        "Am",
+                        "C9",
+                        "D",
+                        "G",
+                        "Em",
+                        "C9",
+                        "Am",
+                        "C9",
+                        "D",
+                        "Em",
+                        "D/F#",
+                        "G",
+                        "Em",
+                        "C9",
+                        "Am",
+                        "C9",
+                        "D",
+                        "Em",
+                        "D",
+                        "C9",
+                        "D",
+                        "G"
+                    ],
                     "repeticoes": ""
                 }
             ]
         },
         {
-            "titulo": "Aline Barros - Jeov\u00e1 Jireh",
-            "tom": "D",
-            "capotraste": "Nenhum",
+            "nome_arquivo": "Cifra Club - Elizeu Alves - Sou Casa.pdf",
+            "titulo": "Sou Casa",
+            "artista": "Elizeu Alves",
+            "tom": "C",
+            "capotraste": "5ª casa",
             "secoes": [
                 {
                     "nome": "Intro",
-                    "acordes": "D A Bm G",
+                    "acordes": [
+                        "C7M",
+                        "G9",
+                        "Bm7"
+                    ],
                     "repeticoes": ""
                 },
                 {
-                    "nome": "Verso",
-                    "acordes": "D A Bm G",
-                    "repeticoes": "2x"
+                    "nome": "Primeira Parte",
+                    "acordes": [
+                        "C7M",
+                        "G9",
+                        "Bm7"
+                    ],
+                    "repeticoes": "Repete após cada frase"
                 },
                 {
-                    "nome": "Refr\u00e3o",
-                    "acordes": "D A Bm G",
-                    "repeticoes": "2x"
+                    "nome": "Refrão",
+                    "acordes": [
+                        "C7M",
+                        "G9",
+                        "Bm7"
+                    ],
+                    "repeticoes": "Repete após cada frase"
                 },
                 {
                     "nome": "Ponte",
-                    "acordes": "Bm A G D",
-                    "repeticoes": ""
-                }
-            ]
-        },
-        {
-            "titulo": "Mariana Valad\u00e3o - Hosana",
-            "tom": "E",
-            "capotraste": "Nenhum",
-            "secoes": [
-                {
-                    "nome": "Intro",
-                    "acordes": "E B C#m A",
-                    "repeticoes": ""
-                },
-                {
-                    "nome": "Verso",
-                    "acordes": "E B C#m A",
-                    "repeticoes": "2x"
-                },
-                {
-                    "nome": "Refr\u00e3o",
-                    "acordes": "E B C#m A",
-                    "repeticoes": "2x"
-                },
-                {
-                    "nome": "Ponte",
-                    "acordes": "C#m A E B",
-                    "repeticoes": ""
-                }
-            ]
-        },
-        {
-            "titulo": "Jefferson & Suellen - Vem Me Buscar",
-            "tom": "Ebm",
-            "capotraste": "4\u00aa casa",
-            "secoes": [
-                {
-                    "nome": "Intro",
-                    "acordes": "Bm A G Em",
-                    "repeticoes": ""
-                },
-                {
-                    "nome": "Verso",
-                    "acordes": "Bm A G Em",
-                    "repeticoes": "2x"
-                },
-                {
-                    "nome": "Refr\u00e3o",
-                    "acordes": "G D Em Bm",
-                    "repeticoes": "2x"
-                },
-                {
-                    "nome": "Ponte",
-                    "acordes": "Em G D A",
-                    "repeticoes": ""
-                }
-            ]
-        },
-        {
-            "titulo": "Theo Rubia - Pode Morar Aqui",
-            "tom": "G",
-            "capotraste": "Nenhum",
-            "secoes": [
-                {
-                    "nome": "Intro",
-                    "acordes": "G D Em C",
-                    "repeticoes": ""
-                },
-                {
-                    "nome": "Verso",
-                    "acordes": "G D Em C",
-                    "repeticoes": "2x"
-                },
-                {
-                    "nome": "Refr\u00e3o",
-                    "acordes": "G D Em C",
-                    "repeticoes": "2x"
-                },
-                {
-                    "nome": "Ponte",
-                    "acordes": "Em C G D",
-                    "repeticoes": ""
-                }
-            ]
-        },
-        {
-            "titulo": "Adhemar de Campos - Grande \u00c9 o Senhor",
-            "tom": "G",
-            "capotraste": "Nenhum",
-            "secoes": [
-                {
-                    "nome": "Intro",
-                    "acordes": "G C D Em",
-                    "repeticoes": ""
-                },
-                {
-                    "nome": "Verso",
-                    "acordes": "G C D Em",
-                    "repeticoes": "2x"
-                },
-                {
-                    "nome": "Refr\u00e3o",
-                    "acordes": "G Em C D",
-                    "repeticoes": "2x"
-                },
-                {
-                    "nome": "Ponte",
-                    "acordes": "Em C G D",
+                    "acordes": [
+                        "C7M",
+                        "G9",
+                        "Bm7"
+                    ],
                     "repeticoes": ""
                 }
             ]

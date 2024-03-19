@@ -1,0 +1,292 @@
+[
+    {
+        "nome_arquivo": "Cifra Club - Marcelo Markes - Eu Tenho Você.pdf",
+        "titulo": "Eu Tenho Você",
+        "artista": "Marcelo Markes",
+        "tom": "Bb",
+        "capotraste": "3ª casa",
+        "secoes": [
+            {
+                "nome": "Intro",
+                "acordes": [
+                    "G",
+                    "C",
+                    "G",
+                    "C"
+                ],
+                "repeticoes": ""
+            },
+            {
+                "nome": "Primeira Parte",
+                "acordes": [
+                    "G",
+                    "C/G",
+                    "Em"
+                ],
+                "repeticoes": ""
+            },
+            {
+                "nome": "Pré-Refrão",
+                "acordes": [
+                    "Am",
+                    "G/B",
+                    "C",
+                    "D"
+                ],
+                "repeticoes": "2x"
+            },
+            {
+                "nome": "Refrão",
+                "acordes": [
+                    "G",
+                    "Em7",
+                    "Am",
+                    "C",
+                    "D"
+                ],
+                "repeticoes": "3x"
+            },
+            {
+                "nome": "Refrão 2",
+                "acordes": [
+                    "C",
+                    "G/B",
+                    "Am",
+                    "C",
+                    "D9",
+                    "C9"
+                ],
+                "repeticoes": ""
+            },
+            {
+                "nome": "Ponte",
+                "acordes": [
+                    "C9",
+                    "G",
+                    "Am7",
+                    "G",
+                    "C9",
+                    "G",
+                    "Am7",
+                    "G",
+                    "C",
+                    "G",
+                    "Am7",
+                    "D9"
+                ],
+                "repeticoes": ""
+            },
+            {
+                "nome": "Refrão Final",
+                "acordes": [
+                    "C",
+                    "G/B",
+                    "Am",
+                    "C",
+                    "D9",
+                    "C9",
+                    "G",
+                    "Am",
+                    "D9",
+                    "C9"
+                ],
+                "repeticoes": ""
+            }
+        ]
+    },
+    {
+        "nome_arquivo": "Cifra Club - Adhemar de Campos - Grande É o Senhor.pdf",
+        "titulo": "Grande É o Senhor",
+        "artista": "Adhemar de Campos",
+        "tom": "A",
+        "capotraste": "2ª casa",
+        "secoes": [
+            {
+                "nome": "Primeira Parte",
+                "acordes": [
+                    "G9",
+                    "C9",
+                    "G9",
+                    "C9",
+                    "D/F#",
+                    "Em7(11)/B",
+                    "D",
+                    "Am11",
+                    "Bm",
+                    "C6(9)",
+                    "D5"
+                ],
+                "repeticoes": ""
+            },
+            {
+                "nome": "Refrão",
+                "acordes": [
+                    "G9",
+                    "Bm",
+                    "C9",
+                    "Bm",
+                    "Am11",
+                    "D",
+                    "G9",
+                    "Bm",
+                    "C9",
+                    "Bm",
+                    "Am11",
+                    "D",
+                    "C9",
+                    "D"
+                ],
+                "repeticoes": ""
+            }
+        ]
+    },
+    {
+        "nome_arquivo": "Cifra Club - Aline Barros - Sonda-me, Usa-me.pdf",
+        "titulo": "Sonda-me, Usa-me",
+        "artista": "Aline Barros",
+        "tom": "C",
+        "capotraste": "5ª casa",
+        "secoes": [
+            {
+                "nome": "Intro",
+                "acordes": [
+                    "G",
+                    "D/F#",
+                    "C9",
+                    "D",
+                    "Em",
+                    "Em7/D",
+                    "C9",
+                    "D/F#",
+                    "G4",
+                    "G",
+                    "Bm"
+                ],
+                "repeticoes": ""
+            },
+            {
+                "nome": "Primeira Parte",
+                "acordes": [
+                    "G",
+                    "D/F#",
+                    "Em",
+                    "Em7/D",
+                    "C9",
+                    "G/B",
+                    "Am",
+                    "G",
+                    "D/F#",
+                    "Em",
+                    "Em7/D"
+                ],
+                "repeticoes": ""
+            },
+            {
+                "nome": "Pré-Refrão",
+                "acordes": [
+                    "C9",
+                    "D/C",
+                    "Bm7",
+                    "Em",
+                    "Em7/D",
+                    "C9",
+                    "D",
+                    "C/E",
+                    "D/F#"
+                ],
+                "repeticoes": ""
+            },
+            {
+                "nome": "Refrão",
+                "acordes": [
+                    "G",
+                    "D/F#",
+                    "Em",
+                    "Em7/D",
+                    "C9",
+                    "G/B",
+                    "C/E",
+                    "D/F#",
+                    "G",
+                    "D/F#",
+                    "Em",
+                    "Em7/D",
+                    "C9",
+                    "G/B",
+                    "C9",
+                    "D",
+                    "Em",
+                    "C",
+                    "D"
+                ],
+                "repeticoes": ""
+            },
+            {
+                "nome": "Ponte",
+                "acordes": [
+                    "G",
+                    "Em",
+                    "C9",
+                    "Am",
+                    "C9",
+                    "D",
+                    "G",
+                    "Em",
+                    "C9",
+                    "Am",
+                    "C9",
+                    "D",
+                    "G",
+                    "Em",
+                    "C9",
+                    "Am",
+                    "C9",
+                    "D",
+                    "Em",
+                    "D/F#",
+                    "G",
+                    "Em",
+                    "C9",
+                    "Am",
+                    "C9",
+                    "D",
+                    "Em",
+                    "D",
+                    "C9",
+                    "D",
+                    "G"
+                ],
+                "repeticoes": ""
+            }
+        ]
+    },
+    {
+        "nome_arquivo": "Cifra Club - Elizeu Alves - Sou Casa.pdf",
+        "titulo": "Sou Casa",
+        "artista": "Elizeu Alves",
+        "tom": "C",
+        "capotraste": "5ª casa",
+        "secoes": [
+          {
+            "nome": "Intro",
+            "acordes": ["C7M", "G9", "Bm7"],
+            "repeticoes": ""
+          },
+          {
+            "nome": "Primeira Parte",
+            "acordes": ["C7M", "G9", "Bm7"],
+            "repeticoes": "Repete após cada frase"
+          },
+          {
+            "nome": "Refrão",
+            "acordes": ["C7M", "G9", "Bm7"],
+            "repeticoes": "Repete após cada frase"
+          },
+          {
+            "nome": "Ponte",
+            "acordes": ["C7M", "G9", "Bm7"],
+            "repeticoes": ""
+          }
+        ]
+    }
+]
